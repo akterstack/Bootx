@@ -23,8 +23,8 @@ sourceCompatibility = 1.8
 targetCompatibility = 1.8
 
 jar {
-    baseName = 'story-book-service'
-    version =  '0.1.0'
+    baseName = 'bootx'
+    version =  '0.0.1'
 }
 
 repositories {
